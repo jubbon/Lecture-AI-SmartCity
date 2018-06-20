@@ -18,7 +18,11 @@
 ![BikeSharing Empty Station](assets/images/BikeSharing/bikesharing-full.png)
 @divend
 
++++?image=assets/images/BikeSharing/urbica-01.gif
+@title[CapacityPerHour]
+
 +++
+#### Решение: ребалансировка станций
 @title[BikeSharing: Rebalance Station]
 @div[left-50]
 ![BikeSharing Rebalance Station](assets/images/BikeSharing/bikesharing-05.png)
@@ -27,10 +31,6 @@
 @div[right-50]
 ![BikeSharing Rebalance Station](assets/images/BikeSharing/bikesharing-06.jpg)
 @divend
-
-
-+++?image=assets/images/BikeSharing/urbica-01.gif
-@title[CapacityPerHour]
 
 +++?image=assets/images/BikeSharing/urbica-02.png
 @title[RebalancingRoute]
