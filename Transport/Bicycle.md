@@ -9,12 +9,13 @@
 
 +++
 @title[BikeSharing: Empty and Full Stations]
+#### А что может пойти не так?
 @div[left-50]
-![BikeSharing Full Station](assets/images/BikeSharing/bikesharing-03.jpg&size=auto 300px)
+![BikeSharing Full Station](assets/images/BikeSharing/bikesharing-empty.png)
 @divend
 
-@div[right-50]
-![BikeSharing Empty Station](assets/images/BikeSharing/bikesharing-04.jpg&size=auto 300px)
+@div[right-50 fragment]
+![BikeSharing Empty Station](assets/images/BikeSharing/bikesharing-full.png)
 @divend
 
 +++
