@@ -6,6 +6,7 @@
 сооснователь и генеральный директор Ситиликс
 
 ---?include=./Transport/Bicycle.md
+---?include=./Transport/Bus.md
 
 ---
 @title[Thanks]
