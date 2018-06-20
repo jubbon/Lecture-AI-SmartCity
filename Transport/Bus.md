@@ -11,11 +11,11 @@
 +++
 @title[Bus: Mobile app]
 @div[left-50]
-![Yandex.Transport 1](assets/images/Bus/bus-yandex-01.jpg)
+![Yandex.Transport 1](assets/images/Bus/bus-yandex-01.png)
 @divend
 
 @div[right-50]
-![Yandex.Transport 2](assets/images/Bus/bus-yandex-02.jpg)
+![Yandex.Transport 2](assets/images/Bus/bus-yandex-02.png)
 @divend
 
  - Предсказание времени прибытия на остановку
