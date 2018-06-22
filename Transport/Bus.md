@@ -5,11 +5,12 @@
 
 +++
 @title[Bus: GLONASS]
-
+#### How it works?
 ![GLONASS](assets/images/Bus/bus-glonass.png)
 
 +++
 @title[Bus: Mobile app]
+#### Mobile Apps
 @div[left-50]
 ![Yandex.Transport 1](assets/images/Bus/bus-yandex-01.png)
 @divend
@@ -23,7 +24,7 @@
 ![Tablo](assets/images/Bus/bus-tablo.jpg)
 +++
 @title[Bus: TA]
-### Transport Accessibility
+#### Transport Accessibility
 
 @div[left-50]
 ![TA](assets/images/Bus/bus-ta.png)
@@ -34,5 +35,5 @@
 
 +++
 @title[Bus: Optimisation]
-### Route graph optimisation
-![TA](assets/images/Bus/bus-route-graph.jpg)
+#### Route graph optimisation
+![Route grap optmisation](assets/images/Bus/bus-route-graph.jpg)
