@@ -1,5 +1,5 @@
 @title[BikeSharing]
-### Сервисы проката велосипедов
+### Bike Sharing Service
 
 ![BikeSharing Mobile App](assets/images/BikeSharing/bikesharing-01.png)
 
@@ -9,7 +9,7 @@
 
 +++
 @title[BikeSharing: Empty and Full Stations]
-#### А что может пойти не так?
+#### What can go wrong?
 @div[left-50 fragment]
 ![BikeSharing Full Station](assets/images/BikeSharing/bikesharing-empty.png)
 @divend
