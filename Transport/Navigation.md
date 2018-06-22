@@ -6,4 +6,4 @@
 +++
 @title[Navigation: Parking Route]
 #### Parking Route
-![Navigation: Parking Route](assets/images/Navigation/Navigation-ParkingRoute.jpg)
+![Navigation: Parking Route](assets/images/Navigation/Navigation-ParkingRoute.png)
