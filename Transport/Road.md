@@ -11,15 +11,15 @@
 +++
 @title[Road: Lights Analisys]
 #### Traffic light analysis
-![Traffic light analysis](assets/images/Road/Road-Light analysis.jpg)
+![Traffic light analysis](assets/images/Road/Road-Light-analysis.jpg)
 
 +++
 @title[Road: Bad or Red Lights]
 #### What does it give?
 @div[left-50 fragment]
-![Road Light bad](assets/images/Road/Road-Light-bad.png)
+![Road Light bad](assets/images/Road/Road-Light-bad.jpg)
 @divend
 
 @div[right-50 fragment]
-![Road Light bad](assets/images/Road/Road-Light-red.png)
+![Road Light red](assets/images/Road/Road-Light-red.jpg)
 @divend
