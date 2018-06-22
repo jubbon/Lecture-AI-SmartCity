@@ -26,12 +26,8 @@
 @title[Bus: TA]
 #### Transport Accessibility
 
-@div[left-50]
 ![TA](assets/images/Bus/bus-ta.png)
-@divend
 
-@div[right-50]
-@divend
 
 +++
 @title[Bus: Optimisation]
