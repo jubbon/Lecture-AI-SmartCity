@@ -22,14 +22,14 @@
 @title[CapacityPerHour]
 
 +++
-#### Решение: ребалансировка станций
+#### Solution: Rebalancing stations
 @title[BikeSharing: Rebalance Station]
 @div[left-50]
 ![BikeSharing Rebalance Station](assets/images/BikeSharing/bikesharing-05.png)
 @divend
 
 @div[right-50]
-![BikeSharing Rebalance Station](assets/images/BikeSharing/bikesharing-06.jpg)
+![BikeSharing Rebalance Station](assets/images/BikeSharing/bikesharing-06.png)
 @divend
 
 +++?image=assets/images/BikeSharing/urbica-02.png
