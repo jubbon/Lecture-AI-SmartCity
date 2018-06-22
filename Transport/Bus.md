@@ -1,7 +1,7 @@
 @title[Bus]
 ### Public Transport
 
-![Bus](assets/images/Bus/bus.jpg)
+![Bus](assets/images/Bus/bus.png)
 
 +++
 @title[Bus: GLONASS]
@@ -32,4 +32,4 @@
 +++
 @title[Bus: Optimisation]
 #### Route graph optimisation
-![Route grap optmisation](assets/images/Bus/bus-route-graph.jpg)
+![Route grap optmisation](assets/images/Bus/bus-route-graph.png)
